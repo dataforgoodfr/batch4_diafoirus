@@ -19,6 +19,3 @@ https://querybuilder-lcp.mit.edu/
 ## Research paper using Mimic III
 - Github repo: https://github.com/alistairewj/mortality-prediction
 - Paper: http://alistairewj.github.io/papers/reproducibility-critical-care-final.pdf
-
-## Team contacts
-https://drive.google.com/open?id=1souA_qfxHpCujZwYx3v-MsnokLsnEbOS
