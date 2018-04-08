@@ -1,5 +1,7 @@
 **Team 3 - Fleming**
 
+![alt text](https://i.pinimg.com/originals/b0/0f/1b/b00f1ba05a8cfd58c627895c60c61314.jpg "Alexander Fleming")
+
 Named after Alexander Fleming (1881 - 1955), former Scottish physician, microbiologist, and pharmacologist, Nobel Prize 1945 in Physiology or Medicine, best known for discovering the lysozyme enzyme and the world's first antibiotic (Penicillin G).
 
 The main goal of the project is to predict dynamically mortality risk for a given patient on a horizon of a few days.
