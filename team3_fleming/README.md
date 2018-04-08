@@ -1,6 +1,6 @@
 # Team 3 - Fleming
 
-![alt text](http://www.sath.org.uk/edscot/www.educationscotland.gov.uk/Images/Alex%20Flemming_Penicillin%20L_tcm4-561885.jpg "Alexander Fleming")<!-- .element height="50%" width="50%" -->
+![alt text](http://www.sath.org.uk/edscot/www.educationscotland.gov.uk/Images/Alex%20Flemming_Penicillin%20L_tcm4-561885.jpg "Alexander Fleming"){:height="50%" width="50%"}
 
 Named after Alexander Fleming (1881 - 1955), former Scottish physician, microbiologist, and pharmacologist, Nobel Prize 1945 in Physiology or Medicine, best known for discovering the lysozyme enzyme and the world's first antibiotic (Penicillin G).
 
