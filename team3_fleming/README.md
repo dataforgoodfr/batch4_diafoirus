@@ -1,6 +1,8 @@
 **Team 3 - Fleming**
 
-Prédiction de la mortalité de manière dynamique pour un patient à un horizon de qq jours
+Named after Alexander Fleming (1881 - 1955), former Scottish physician, microbiologist, and pharmacologist, Nobel Prize 1945 in Physiology or Medicine, best known for discovering the lysozyme enzyme and the world's first antibiotic (Penicillin G).
+
+The main goal of the project is to predict dynamically mortality risk for a given patient on a horizon of a few days.
 
 **04/04/2018**
 - exploration des données, 
