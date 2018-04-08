@@ -29,6 +29,7 @@ The main goal of the project is to predict dynamically mortality risk for a give
 
 2016
 - Predicting Clinical Events by Combining Static and Dynamic Information Using Recurrent Neural Networks (feb 2016): [paper](https://arxiv.org/abs/1602.02685)
+- Predicting ICU Mortality Risk by Grouping Temporal Trends from a Multivariate Panel of Physiologic Measurements  (feb 2016): [paper](https://pdfs.semanticscholar.org/2789/b71bf1e107f07317250519ad70667a10fe4d.pdf)
 - Using recurrent neural network models for early detection of heart failure onset (aug 2016): [paper](https://academic.oup.com/jamia/article/24/2/361/2631499)
 - Recurrent Neural Networks for Multivariate Time Series with Missing Values (nov 2016): [paper](https://arxiv.org/abs/1606.01865)
 - Hospital Standardized Mortality Ratio (HSMR) (nov 2016): [paper](https://www.cihi.ca/sites/default/files/document/hsmr_tech_notes_en.pdf)
