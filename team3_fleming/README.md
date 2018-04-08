@@ -1,18 +1,19 @@
-**Team 3 - Fleming**
+# Team 3 - Fleming
 
-![alt text](https://i.pinimg.com/originals/b0/0f/1b/b00f1ba05a8cfd58c627895c60c61314.jpg "Alexander Fleming")
+![alt text](http://www.sath.org.uk/edscot/www.educationscotland.gov.uk/Images/Alex%20Flemming_Penicillin%20L_tcm4-561885.jpg "Alexander Fleming")
 
 Named after Alexander Fleming (1881 - 1955), former Scottish physician, microbiologist, and pharmacologist, Nobel Prize 1945 in Physiology or Medicine, best known for discovering the lysozyme enzyme and the world's first antibiotic (Penicillin G).
 
 The main goal of the project is to predict dynamically mortality risk for a given patient on a horizon of a few days.
 
+## Meeting Notes
 **04/04/2018**
 - exploration des données, 
 - discussions sur la manière de constituer les cohorts (âge, sexe, cholestérol moyen, fréquence cardiaque moyenne, pression artérielle moyenne, taille, poids, nb d'allergies, etc.), 
 - stats importantes à obtenir: durée de séjours par unité (influence sur le nb d'observations), taux de mortalité et fréquence par diagnostics et par année, idem par unité, stats sur les indicateurs classiques par cohort.
 
 
-**TODO**
+## TODO
 - [ ] Accès à MIMIC PostGreS en python directement
 - [ ] Benchmarker tous les indicateurs principaux (SOFA, IGS-II) et écrire des scripts pour les calculer.
 - [ ] Réaliser un EDA complet (jupyter notebook) pour se faire une idée des biais existants (cf. idée de stats du 04/04)
@@ -21,7 +22,7 @@ The main goal of the project is to predict dynamically mortality risk for a give
 - [ ] Benchmark des différents modèles suivant qq métriques dont: précision, nombre de variables explicatives, complexité d'entraînement du modèle (souci de reproductibilité).
 
 
-**Relevant work**
+## Relevant work
 
 2011
 - A Comparison of Intensive Care Unit Mortality Prediction Models through the Use of Data Mining Techniques (dec 2011): [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3259558/)
